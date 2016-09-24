@@ -1,0 +1,6 @@
+ttd:
+  login: <username>
+  password: <password>
+  token: <api token>
+  api-base: https://api.thetradedesk.com/v3/
+  partnerid: <TTD partner id>
